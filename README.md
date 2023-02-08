@@ -17,7 +17,7 @@ This is a Node.js project that uses a PostgreSQL database for data storage and r
 - GIT
 - Docker (optional)
 
-## Installation
+## Installations
 ## Clone this repository to your local machine
    ```
    git clone git@github.com:shivamt24/webapp.git
